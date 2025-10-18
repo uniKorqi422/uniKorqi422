@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @uniKorqi422
-- 👀 I’m interested in the little things tied to the Universe...
-- 🌱 I’m currently learning how to type efficently again, and how to code space related projects...
-- 💞️ I’m looking to collaborate on something with positive solutions for the future AI and tech communities...
-- 📫 How to reach me, you can find me here...sometimes...
-- 😄 Pronouns: what does this mean?  I am human...
-- ⚡ Fun fact: red pandas have handedness, like humans do, red pandas are very cute too...
+# 👋 Hi, I’m uniKorqi422!
 
-<!---
-uniKorqi422/uniKorqi422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer | Data Scientist | Lifelong Learner**  
+🛠️ Python | Jupyter Notebook | VSCode | GenAI + Aeronautics
+
+---
+
+> “Never stop, always look up because, like Stephen Hawking said, 'You are important in the world.'”
+
+## 🚀 About Me
+
+- 👨‍💻 I’m passionate about fusing **Generative AI** with **aeronautic systems**.
+- 🚀 Currently learning and tinkering with [RocketPy](https://github.com/rocketpy-team/RocketPy) and [Astropy](https://github.com/astropy/astropy) to push the boundaries of aerospace and data science.
+- 📊 I work primarily in **Python**, exploring the universe through Jupyter Notebooks and the power of VSCode.
+- 📚 Always a student—curiosity is my superpower.
+
+## 🌟 What I’m Up To
+
+- 🔭 Experimenting with GenAI applications in aerospace.
+- 🛰️ Building, simulating, and analyzing rocketry and astronomical data.
+- 🛠️ Open to collaborating on projects at the intersection of AI, science, and engineering.
+
+## 📖 Fun Fact
+
+Red pandas have handedness. Don’t ask me how to ask them which hand they prefer though! 🐾
+
+## 📫 Let’s Connect!
+
+- rocketypy.tumbler@proton.me
+
+---
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
