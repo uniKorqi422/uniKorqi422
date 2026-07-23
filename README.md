@@ -1,7 +1,7 @@
 # 👋 Hi, I’m uniKorqi422!
 
 **Software Engineer | Data Scientist | Lifelong Learner**  
-🛠️ Python | Jupyter Notebook | VSCode | GenAI + Aeronautics
+🛠️ Python | Jupyter Notebook | VSCode | GenAI + Aeronautics | Grok Build
 
 ---
 
